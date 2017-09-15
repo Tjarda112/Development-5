@@ -1,0 +1,10 @@
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/bin/Debug/netcoreapp2.0/TestProject.deps.json
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/bin/Debug/netcoreapp2.0/TestProject.runtimeconfig.json
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/bin/Debug/netcoreapp2.0/TestProject.runtimeconfig.dev.json
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/bin/Debug/netcoreapp2.0/TestProject.dll
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/bin/Debug/netcoreapp2.0/TestProject.pdb
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/obj/Debug/netcoreapp2.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/obj/Debug/netcoreapp2.0/TestProject.AssemblyInfoInputs.cache
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/obj/Debug/netcoreapp2.0/TestProject.AssemblyInfo.cs
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/obj/Debug/netcoreapp2.0/TestProject.dll
+/Users/tjardavoorn/Library/Application Support/Code/User/TestProject/obj/Debug/netcoreapp2.0/TestProject.pdb
